@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steven Faliszewski, Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm Steven Faliszewski - Software Engineer</h1>
 
 I am a family man living in Kamloops, British Columbia with my wife and kids.
 I got started coding by working on personal projects, graduating from the Software Engineering bootcamp at BrainStation, and then working at BrainStation as a Teaching Assistant. I honed my technical skills and learned how to effectively collaborate with others during the software development process.  
