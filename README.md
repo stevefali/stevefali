@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steven Faliszewski - Software Engineer</h1>
 
 I am a family man living in Kamloops, British Columbia with my wife and kids.
-I got started coding by working on personal projects, graduating from the Software Engineering bootcamp at BrainStation, and then working at BrainStation as a Teaching Assistant. I honed my technical skills and learned how to effectively collaborate with others during the software development process.  
+I got started coding by teaching myself Android Development, working on other personal projects, graduating from the Software Engineering bootcamp at BrainStation, and then working at BrainStation as a Teaching Assistant. I honed my technical skills and learned how to effectively collaborate with others during the software development process.  
 
 <p>My most recent role as a Teaching Assistant with BrainStation was a really great experience because it helped solidify my knowledge of Software Engineering, and also challenged me to help students with their technical questions and help them debug their projects (debugging other people's code over Zoom is an extra challenge). My past work experience has taught me creative problem solving and the importance of attention to detail. 
 
