@@ -1,6 +1,6 @@
 # Hi 👋, I'm Steven Faliszewski - Software Engineer
 
-I am a family man living in Kamloops, British Columbia with my wife and kids. My journey into software development began with Android development as a hobby, which eventually led me to graduate from BrainStation's Software Engineering bootcamp and work there as a Teaching Assistant.
+I am a family man living in Kamloops, British Columbia with my wife and kids. My journey into software development began with Android development as a hobby, which eventually led me to pursue software development as a full time carreer. I graduated from BrainStation's Software Engineering bootcamp and then worked there as a Teaching Assistant. 
 
 ## 🔭 Current Work
 - AI Training Engineer at [Outlier.ai](https://outlier.ai), where I help train AI models to improve their coding capabilities
