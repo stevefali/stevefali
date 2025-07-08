@@ -47,8 +47,8 @@ I am a family man living in Kamloops, British Columbia with my wife and kids. My
 ## 🛠 Technical Skills
 - Languages: Java, Kotlin, JavaScript, HTML, CSS, TypeScript
 - Mobile: Android Development, Jetpack Compose
-- Web: Full Stack Development, React, Next.js
-- Tools: Git, REST APIs, SQL Databases, VS Code, IntelliJ IDEA, Android Studio
+- Web: Full Stack Development, React, Next.js, REST APIs, SQL Databases,
+- Tools: Git, GitHub, Trello, VS Code, IntelliJ IDEA, Android Studio
 - Game Development: Minecraft Modding
 
 Please have a look at my public repositories to see the code for my projects.
