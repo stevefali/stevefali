@@ -22,7 +22,7 @@ I am a family man living in Kamloops, British Columbia with my wife and kids. My
 
 ## 🚀 Featured Projects
 1. [Mega Randomizer](https://www.curseforge.com/minecraft/mc-mods/mega-randomizer) (Java, Minecraft Mod)
-   - 50,000+ downloads
+   - 60,000+ downloads
    - Multiple version support
    - Clean code architecture
    - Open source collaboration
