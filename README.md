@@ -25,7 +25,6 @@ I am a family man living in Kamloops, British Columbia with my wife and kids. My
    - 100,000+ downloads
    - Multiple version support
    - Clean code architecture
-   - Open source collaboration
 
 2. [Skblock (I'll work on the name)](https://github.com/stevefali/SkBlock) (Java, Spigot)
    - A Skyblock game for a Spigot Minecraft server I am currently building
