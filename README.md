@@ -27,18 +27,29 @@ I am a family man living in Kamloops, British Columbia with my wife and kids. My
    - Clean code architecture
    - Open source collaboration
 
-2. [DrugBug](https://drugbug.netlify.app/) (Full Stack Web Application)
+2. [Skblock (I'll work on the name)](https://github.com/stevefali/SkBlock) (Java, Spigot)
+   - A Skyblock game for a Spigot Minecraft server I am currently building
+   - Vanilla Spigot plugin
+   - Includes NMS library usage
+
+3. [MegaNPCs](https://github.com/stevefali/MegaNPCs) (Java, Spigot)
+   - NPC Plugin + API for a Spigot Minecraft server I am currently building
+   - Creates and sends packets directly to the client to create "pure packet" NPCs
+   - Automatically injects interaction packet listeners for players when they join the server
+   - All NMS code is kept inside the plugin (it's abstracted out of the API) so consuming plugins only need vanilla Spigot classes
+
+4. [DrugBug](https://drugbug.netlify.app/) (Full Stack Web Application)
    - Medication tracking and interaction lookup
    - Implemented web push notifications
    - Complete user authentication system
 
-3. [Weather Quest](https://play.google.com/store/apps/details?id=com.steve.weatherquest&hl=en_US) (Kotlin, Android)
+5. [Weather Quest](https://play.google.com/store/apps/details?id=com.steve.weatherquest&hl=en_US) (Kotlin, Android)
    - Modern Android development with Jetpack Compose
    - REST API integration with multiple services
    - Efficient network call optimization
    - Uses: Room, Retrofit, Moshi, Hilt/Dagger
 
-4. [MegaRand10K](https://github.com/stevefali/MegaRand10K) (Node.js)
+6. [MegaRand10K](https://github.com/stevefali/MegaRand10K) (Node.js)
    - Automated download milestone tracking for Mega Randomizer
    - Email notification system
    - Web scraping with Playwright
@@ -49,7 +60,7 @@ I am a family man living in Kamloops, British Columbia with my wife and kids. My
 - Mobile: Android Development, Jetpack Compose
 - Web: Full Stack Development, React, Next.js, REST APIs, SQL Databases,
 - Tools: Git, GitHub, Trello, VS Code, IntelliJ IDEA, Android Studio
-- Game Development: Minecraft Modding
+- Game Development: Minecraft Spigot development and Forge mods
 
 Please have a look at my public repositories to see the code for my projects.
 
